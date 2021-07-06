@@ -1,5 +1,5 @@
 # X0N3 old fixed
-A fix for X1N3 ( a leaked source of X0N3)
+A fix for X1N3 ( a leaked source of X0N3) for latest CSGO version.
 
 Compile in Release x86 
 
